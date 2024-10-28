@@ -1,9 +1,15 @@
 🚗 Aron Auto - MCG Project -- Python
+
 Author: Sahil Dhiman
+
 Position: Sales Marketing Analyst
+
 Company: Aron Auto
+
 To Concern: VP of Fleet Management
+
 Tools used: Python (Seaborn, Matplotlib)
+
 📝 Description
 Aron Auto is known for its fleet management services. As a client of Maven Consulting Group, they want assistance analyzing the Auto Procurement Market for a fleet of service vehicles. Their main concern aligns with having an optimal purchasing for Ford f150s through this analysis, ensuring the most affordable and efficient solution for clients who lease trucks to contractors and businesses.
 📊 Project Objectives
